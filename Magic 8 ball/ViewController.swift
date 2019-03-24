@@ -10,7 +10,6 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var textFieldQuestion: UITextField!
     
     @IBOutlet weak var imageViewBall: UIImageView!
     
